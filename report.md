@@ -23,9 +23,9 @@ Origami is a folding protocol designed to boost returns with higher token exposu
 
 - Type: A public audit competition hosted by Origami
 - Duration: 2 weeks
-- Maximum Reward: $70,000,000,000,000,010
+- Maximum Reward: $70,000
 - Submissions: 63
-- Total Payout: $50,400,000,000,000,000 distributed among 24 participants.
+- Total Payout: $50,400 distributed among 24 participants.
 
 ## Scope of Audit
 
